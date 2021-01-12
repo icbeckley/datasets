@@ -1,0 +1,12 @@
+SW_main.csv info sheet <- dataframe wherein observations are short-wave trough passages over Lake Ontario during the cold season (Oct-Mar) from 2009-2019
+
+Ian C. Beckley
+12 Jan. 2021
+
+date <- dd/mm/yyyy
+type <- path with which the trough took over Lake Ontario: cardinal dir originated, cut-off low (COL), LWT (rounding the base of a shortwave trough)
+ini(time) <- initial timestamp of the event (time the vorticity max > 18 s^-1 reached Ontario's shore
+fin(time) <- final timestamp of the event (^^^ left Ontario's shore)
+duration <- # maps in event (3hr resolution)
+le <- 0 = no le, 1 = le
+cs <- cold season indicator (1 newest)
